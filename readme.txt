@@ -1,8 +1,3 @@
-Name: Maryam Ayub
-Student ID: 26100257
-
-Name: Mohammad Fatim Shoaib
-Student ID: 26100004
 
 Project: Hangman
 - We created the famous game called hangman. In our game, the program randomly chooses a word
