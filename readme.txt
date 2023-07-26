@@ -1,5 +1,7 @@
+By: Fatim Shoaib (26100004@lums.edu.pk) and Maryam Ayub (26100257@lums.edu.pk)
 
 Project: Hangman
+
 - We created the famous game called hangman. In our game, the program randomly chooses a word
   based on the difficulty from a text file containing over 10K words. Next, the program displays 
   underscores instead of letters and prompts the user to guess a letter. If the letter is in
